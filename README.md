@@ -1,1 +1,1 @@
-# Spring-mvc
+# Spring-mvc project with db sql scripts for creating Postgres db and tables for it.

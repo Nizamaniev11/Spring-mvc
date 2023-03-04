@@ -1,0 +1,12 @@
+
+DROP TABLE IF EXISTS  cars;
+
+CREATE TABLE cars(
+	car_id SERIAL SERIAL PRIMARY KEY,
+	car_type VARCHAR(20) NOT NULL
+);
+
+
+
+
+
